@@ -1,6 +1,4 @@
-# FMCG-Sales-Profit-Performance-Dashboard
 
----
 
 # 📊 FMCG Sales & Profit Performance Dashboard
 
