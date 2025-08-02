@@ -5,7 +5,7 @@
 A dynamic Power BI dashboard built to analyze sales, profit, and payment trends in the Fast-Moving Consumer Goods (FMCG) sector.
 ---
 
-![q]()
+![q](https://github.com/Pranshul-cloud/FMCG-Sales-Profit-Performance-Dashboard/blob/main/FMCG_Sales_Daashboard.png)
 
 ---
 
