@@ -3,6 +3,9 @@
 # 📊 FMCG Sales & Profit Performance Dashboard
 
 A dynamic Power BI dashboard built to analyze sales, profit, and payment trends in the Fast-Moving Consumer Goods (FMCG) sector.
+---
+
+![q]()
 
 ---
 
